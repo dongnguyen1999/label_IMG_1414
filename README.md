@@ -63,6 +63,8 @@ Chọn nhãn car, vẽ hợp giới hạn cho tất cả các xe 4 bánh không 
 Đông gán 100 hình đầu <br>
 Dương gán 100 hình sau (từ hình thứ 101 trở đi) <br>
 
+
+
 Sau khi gán xong phần của mình: <br>
   ```
   git add .
